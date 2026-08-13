@@ -1,0 +1,1 @@
+Open index.html in a browser. Keep index.html and style.css in the same folder. Add your real project screenshots and Figma links before publishing.
